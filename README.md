@@ -1,0 +1,2 @@
+# jazari
+A Discord bot
