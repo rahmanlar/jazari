@@ -169,4 +169,4 @@ async def joined(ctx, member: discord.Member):
     await ctx.send('{0.name} şu tarihte katıldı: {0.joined_at}'.format(member))
 
 bot.add_cog(Music(bot))
-bot.run('NzcwNzA4NDQ4OTI0OTI1OTYy.X5hgLQ.-fl673CeTUkOpQcRvm79G0SxZ2A')
+bot.run('your token here')
