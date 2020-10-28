@@ -1,4 +1,3 @@
-# This example requires the 'members' privileged intents
 
 import discord
 from discord.ext import commands
